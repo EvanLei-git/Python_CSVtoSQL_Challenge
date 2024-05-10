@@ -16,6 +16,7 @@ with the keys (1956, 'Summer') so deleting the following line will remove the er
 > INSERT INTO Games (Year, Period, City, HostedInCountry) VALUES (1956, 'Summer', 'Stockholm', 'SWE');
 
 
+## Overview of the Data format in done.sql
 ```sql
 set feedback off
 set define off
