@@ -8,6 +8,7 @@ Simple script to turn my homework's CSV file to a SQL file based on a Relational
 csv uploaded by [@rgriff23](https://github.com/rgriff23): https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 input file: **athlete_events.csv**
+
 created sql: **done.sql**
 
 ```sql
