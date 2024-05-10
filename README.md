@@ -48,4 +48,5 @@ INSERT INTO Participation (AthleteID, Year, Period, Event, Medal) VALUES (2, 201
 INSERT INTO Participation (AthleteID, Year, Period, Event, Medal) VALUES (3, 1920, 'Summer', 'Football Men Football', 'NA');
 INSERT INTO Participation (AthleteID, Year, Period, Event, Medal) VALUES (4, 1900, 'Summer', 'Tug-Of-War Men Tug-Of-War', 'Gold');
 
+...................
 ```
