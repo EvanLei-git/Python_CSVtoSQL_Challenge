@@ -1,4 +1,4 @@
-# myPythonRecap1DayScript
+# Python Recap - 1 Day Script
 Simple script to turn my homework's CSV file to a SQL file based on a Relational Database Schema ... Just Refreshing my Python Knowledge.
 
 ## Relational Schema:
